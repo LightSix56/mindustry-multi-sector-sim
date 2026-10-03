@@ -1,0 +1,9 @@
+{
+  "name": "multi-sector-sim",
+  "displayName": "Multi-Sector Simulator",
+  "author": "Antigravity",
+  "description": "Simulates user-selected campaign sectors simultaneously in 60-TPS headless workers with real-time launch pad transfers.",
+  "version": "1.0",
+  "minGameVersion": "146",
+  "hidden": true
+}

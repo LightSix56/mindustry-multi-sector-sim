@@ -1,0 +1,4 @@
+# Mindustry Multi-Sector Simulator
+# The orchestrator runs on standard library Python 3.10+.
+# Pytest is only required for automated test execution:
+pytest>=8.0.0
